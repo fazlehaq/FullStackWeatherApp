@@ -20,6 +20,11 @@ The FullStack Weather App is a full-stack application designed to provide weathe
   - Backend hosted on Replit.
 
 ---
+## Links 
+**frontend** : https://fazlehaq.github.io/FullStackWeatherApp/ 
+**backend** : https://replit.com/@1200Shaikh-Moha/OrnateCreativeDimension
+
+---
 
 ## Setup Instructions
 
