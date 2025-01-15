@@ -72,7 +72,7 @@ The FullStack Weather App is a full-stack application designed to provide weathe
    - **Backend:**
      ```bash
      cd backend
-     node dist/index.js
+     node start
      ```
    - **Frontend:**
      ```bash
