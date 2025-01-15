@@ -1,4 +1,3 @@
-Here's the corrected and formatted README file:
 
 ---
 
@@ -72,7 +71,7 @@ The FullStack Weather App is a full-stack application designed to provide weathe
    - **Backend:**
      ```bash
      cd backend
-     node start
+     npm start
      ```
    - **Frontend:**
      ```bash
